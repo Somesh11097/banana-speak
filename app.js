@@ -4,7 +4,7 @@ var outputDiv = document.querySelector("#output");
 
 
 
-
+//handling input and output
 function clickHandler() {
     outputDiv.innerText = "ajsjsjs: " + txtInput.value;
     
