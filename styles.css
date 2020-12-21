@@ -1,6 +1,17 @@
 
 
 
+.header{
+    text-align: center;
+    font-size: larger;
+    background-color: yellow;
+    margin-left:50px;
+    margin-right:50px;
+    padding:70px;
+    
+}
+
+
 
 .textarea{
     width:85%;
